@@ -21,4 +21,7 @@
 - Should open a new windw with localhost, if that didn't happen, just copy the "localhost:port" link appearing in the terminal!
 
 # Screenshots
-- Should be added later. 
+- Should be added soon. 
+
+# Demo
+- Should be added soon.
